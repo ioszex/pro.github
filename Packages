@@ -1,0 +1,17 @@
+Package: com.25mao.wcplugins
+Architecture: iphoneos-arm64
+Version: 0.1-8-1
+Section: Tweaks
+Maintainer: Mao
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.25mao.wcplugins_0.1-8-1_iphoneos-arm64.deb
+Size: 34334
+MD5sum: c4e9abc8cc6c2627b3352ace36a1149a
+SHA1: a48110aad23981b688ce4be82b56e9729dde68b4
+SHA256: c5859a65ec235d672740e64af55aafe5b619679de710cd79656737315760111e
+SHA512: 50b60d0910865aeb3ebe01c6d3efbab608bb5072521640b1a03d7f615c16cbbd8649bb7ee0c07efbbca5810517ed75165a5f39aca7d285d9734bff4b4ac8e96f
+Description: 微信第三方插件管理界面
+Name: 微信插件管理
+Author: Mao
+

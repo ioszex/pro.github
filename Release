@@ -8,8 +8,8 @@ Components: main
 Description: ioszex 的越狱软件源
 Support: https://ioszex.github.io/pro.github/
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e  0 Packages
- 3bd97cd52d406d087ec3ffc8333d84f2  29 Packages.gz
+ 35614180079c823c8d8eaec6d133f69f  629 Packages
+ fbe5f1fe8913d787a3a38c5b4c699678  487 Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
- 3c0e9db8196dfde5ae6919a9344f093af0c549293b7e53372c3783f09e85422d  29 Packages.gz
+ fa000fa3ebf171c306a23ece28d64d705f0f919918b83c5bab0d71412e73ca77  629 Packages
+ ea71dca409dca1a5652722cd390d3d7b80427bf08ab14b05bc72bcaaf97b047d  487 Packages.gz
