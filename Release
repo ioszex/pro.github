@@ -1,0 +1,15 @@
+Origin: ioszex 的源
+Label: ioszex 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: ioszex 的越狱软件源
+Support: https://ioszex.github.io/pro.github/
+MD5Sum:
+ e2a39a6e93e74678a99e1e908099e2b2  769 Packages
+ 1efb6efe3c1531245d8f198d3e5a6261  591 Packages.gz
+SHA256:
+ 0591204fe54cd37d9ef6a98b80ace949187c11570dd1e774d70a59e5350724df  769 Packages
+ 780b128a66d2f0746106487979149f64a12c327644d1571488e4a954e6217626  591 Packages.gz
